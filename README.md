@@ -1,5 +1,5 @@
 # VBA Progress Bar
-![image](https://github.com/sdupjj/VBA-Progress-Bar/screenshots/barbarbar.png#pic_center)     
+![image](https://github.com/sdupjj/VBA-Progress-Bar/blob/master/Screenshot/BarBarBar.png#pic_center)     
 
 ## 版权 / License  
 Be free to use and modify it.
